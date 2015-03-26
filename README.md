@@ -1,6 +1,8 @@
 # golfml
 Automatically exported from code.google.com/p/golfml
 
+[Test Link] (golfml/docs/hello.md)
+
 The purpose of GolfML is to provide a XML-based file format for the exchange of golf-related data.
 
 There are numerous golf scorecard programs and online web sites that allow golfers to browse course information, print scorecards, keep track of scores, and analyze statistics, or view a Google Earth fly-over of each hole.
