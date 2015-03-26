@@ -1,7 +1,4 @@
-#summary Golf Markup Language
-#sidebar TableOfContents
-
-== Why GolfML ==
+## Why GolfML
 
 The purpose of GolfML is to provide a XML-based file format for the exchange of golf-related data.
 
@@ -9,7 +6,7 @@ There are numerous golf scorecard programs and online web sites that allow golfe
 
 Scorecard programs and websites can usually neither talk to each other nor share data. The main reason is the lack of a common language. GolfML is the missing link, the language necessary for each party to understand the other.
 
-==== Golfing Data: Par, distances, rating, slope... ====
+## Golfing Data: Par, distances, rating, slope...
 
 The benefits for golfers are numerous. Let us take the practical example of a golfer who simply records his or her rounds in a desktop application.
 
@@ -21,7 +18,7 @@ Is that information available on a web site? Of course it is. There are literall
 
 But there is more.
 
-==== Scores ====
+## Scores
 
 After the golfer manually encoded the Par/Handicap stroke index/Distance information in his desktop application, he is now ready to encode his score: Strokes, Stableford points, putts, may be some statistics like fairway hits, greens in regulations or sand saves... All this information is carefully entered into his application. The application is now ready to present him with summaries, statistics, trends over the rounds he entered into it. If he now wants to share that information on a social golfer network, on a web site, or may be at the USGA to compute his official handicap, he will have to type in again his scoring information. Wouldn’t it be nice if he could simply transfer, or upload his score, from his desktop application to a website, and spare him the tedious typing a second, a third, and may be even more times?
 
@@ -35,7 +32,7 @@ But what about your information: Your score, or any other data you entered? Don'
 
 But there is more.
 
-==== GPS Too ====
+## GPS Too
 
 Let us take another example. Nowadays, location aware applications running on mobile devices like to take advantage of the Global Positioning System.
 
@@ -43,7 +40,7 @@ Some private companies invest millions of US dollars to map golf courses with mo
 
 Next to those commercial companies, some social golfing networks have started encoding golf maps, with or without the ubiquitous Google Earth or dedicated tools. Like commercial applications, some are very basic and only offer position of tees and start-of-greens, but some other are fairly comprehensive and draw fairway contours and more. And Yes, GolfML Can. GolfML can store and distribute geo-coded, GPS information about a golf course in its data format.
 
-==== . ====
+##.
 
 As today, only one of these social networks gives its data back in a form usable by a mobile application. There is a handful applications that use this data. But literally, no other mobile application is ready to accept data from another website than the one of its manufacturer.
 Here again, the ambition of GolfML is to close the gap between those who have the information and are ready to share it, and those who need the information to use it. They both need to talk the same language, GolfML.
