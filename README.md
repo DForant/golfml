@@ -1,7 +1,6 @@
 # golfml
 Automatically exported from code.google.com/p/golfml
 
-[Test Link] (Docs/Hello.md)
 
 The purpose of GolfML is to provide a XML-based file format for the exchange of golf-related data.
 
