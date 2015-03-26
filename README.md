@@ -1,6 +1,4 @@
 # golfml
-Automatically exported from code.google.com/p/golfml
-
 
 The purpose of GolfML is to provide a XML-based file format for the exchange of golf-related data.
 
@@ -20,3 +18,5 @@ The first part of this project defines a uniform data format to present golf cou
 The second part of the project defines a data format to allow golfer to record scores, statistics, and golf equipment. Scores can be as simple as stroke counts or as complex as location-based individual stroke record.
 
 This project will not deliver software code. It will deliver a vocabulary, XML specifications and references to allow for data exchange between golf software applications.
+
+Start Here or look at Typical Uses of GolfML
